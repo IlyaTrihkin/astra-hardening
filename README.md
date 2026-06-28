@@ -23,8 +23,33 @@ chmod +x hardening.sh
 sudo ./hardening.sh
 ```
 
-📁 Логи
+---
+
+## 📁 Логи
 Все действия записываются в файл /var/log/hardening.log.
 
-⚠️ Внимание
+---
+
+## ⚠️ Внимание
 Перед запуском убедитесь, что у вас есть SSH-доступ по ключу, чтобы не потерять доступ к системе.
+
+---
+
+## 👤 Автор
+
+Илья Тришкин — специалист по информационной безопасности.
+
+#### GitHub: 
+https://github.com/IlyaTrihkin
+
+#### TenChat: 
+https://tenchat.ru/ilya_trishkin
+
+#### Habr: 
+https://habr.com/ru/users/ilya_trishkin
+
+---
+
+## 📄 Лицензия
+
+Этот проект распространяется под лицензией MIT. Подробнее см. [LICENSE](LICENSE).
